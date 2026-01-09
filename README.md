@@ -34,7 +34,7 @@ This project uses machine learning to predict customer churn based on historical
 
 ## 📈 Model Performance
 - Algorithm: Random Forest Classifier
-- Accuracy: ~79%
+- Accuracy: ~80%
 - Evaluation Metrics: Precision, Recall, F1-score
 
 ---
